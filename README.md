@@ -1,4 +1,4 @@
-## Labbing Instructions: 4.2 Understanding Computer Hardware (weight: 2)
+## 🧪Labbing Instructions: 4.2 Understanding Computer Hardware (weight: 2)
 
 ---
 
